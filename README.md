@@ -1,2 +1,5 @@
 # wezterm-config
-Simple store for my wezterm configurations.
+
+This repo stores my [WezTerm](https://wezfurlong.org/wezterm/) configuration.
+
+> 💡 Clone into `$HOME/.config/wezterm/wezterm.lua` to get started.
